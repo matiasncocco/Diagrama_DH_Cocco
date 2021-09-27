@@ -16,12 +16,12 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Dumping data for table `categoria`
+-- Dumping data for table `nota_categoria`
 --
 
-LOCK TABLES `categoria` WRITE;
-/*!40000 ALTER TABLE `categoria` DISABLE KEYS */;
-/*!40000 ALTER TABLE `categoria` ENABLE KEYS */;
+LOCK TABLES `nota_categoria` WRITE;
+/*!40000 ALTER TABLE `nota_categoria` DISABLE KEYS */;
+/*!40000 ALTER TABLE `nota_categoria` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
